@@ -28,3 +28,9 @@ using DAO classes, and UI components interact only with services.
 This project was developed as an academic exercise and focuses on clean
 architecture and role-based workflows rather than production deployment.
 
+## How to Run
+1. Create databases using `database/erp_schema.sql`
+2. Update database credentials in `config.properties`
+3. Run `AppMain.java`
+
+
